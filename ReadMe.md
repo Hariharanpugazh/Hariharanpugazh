@@ -1,8 +1,6 @@
 <div align="center">
 
-# 👋 Hello! I'm Hariharan
-
-<img src="Profile.JPG" width="400" style="border-radius: 50%;" />
+# 👋 Hello Developers! 
 
 🚀 **AI and Data Science enthusiast** with a passion for innovation. I thrive on solving complex problems using cutting-edge technology, blending design thinking and effective communication. I'm continuously exploring ways to contribute to the world of AI, Data Science, and Full-Stack Development. 
 
