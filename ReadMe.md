@@ -2,6 +2,12 @@
 
 # 👋 Hello Developers! 
 
+<img src="Profile.JPG" width="200" style="border-radius: 40%;" />
+
+ <blockquote style="font-style: italic; font-size: 1.2em; margin: 20px 0; color: #555;">
+    "Error Makes Clever"
+  </blockquote>
+
 🚀 **AI and Data Science enthusiast** with a passion for innovation. I thrive on solving complex problems using cutting-edge technology, blending design thinking and effective communication. I'm continuously exploring ways to contribute to the world of AI, Data Science, and Full-Stack Development. 
 
 ---
@@ -30,6 +36,12 @@ I am committed to continuous learning and growth, and always excited about oppor
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23000.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Git](https://img.shields.io/badge/Git-%F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
 
 ### 🎨 Design Tools
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
