@@ -65,7 +65,8 @@ I am committed to continuous learning and growth, and always excited about oppor
 ---
 
 ## 🐍 Contribution Snake
-![Contribution Snake](https://github.com/Hariharanpugazh/Hariharanpugazh/blob/output/github-contribution-grid-snake.svg)
+![Contribution Snake](https://username.github.io/Hariharanpugazh/snake.svg)
+
 
 ---
 
