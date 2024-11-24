@@ -5,7 +5,7 @@
 <img src="Profile.JPG" width="200" style="border-radius: 40%;" />
 
 <blockquote style="font-style: italic; font-size: 1.4em; margin: 20px 0; color: #555;">
-    "Error Makes Clever"
+    ninjastreoids !
 </blockquote>
 
 🚀 **AI and Data Science enthusiast** with a passion for innovation. I thrive on solving complex problems using cutting-edge technology, blending design thinking and effective communication. I'm continuously exploring ways to contribute to the world of AI, Data Science, and Full-Stack Development.
