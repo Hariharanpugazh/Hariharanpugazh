@@ -61,11 +61,6 @@
 
 ---
 
-## ⚠️ Copyright & Usage Notice
-This README is a proprietary creation of **Hariharan Pugazhendi**. Unauthorized use, copying, or distribution of this content is strictly prohibited without explicit permission.
-
----
-
 ## 🔢 Visitor Count
 [![](https://visitcount.itsvg.in/api?id=Hariharanpugazh&icon=0&color=1)](https://visitcount.itsvg.in)
 
