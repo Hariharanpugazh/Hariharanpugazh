@@ -2,20 +2,18 @@
 
 # 👋 Hello Developers!
 
-<img src="Memoji.jpg" width="200" style="border-radius: 40%;" />
+<div align="center">
+  <img src="Memoji.jpg" alt="Memoji" width="250" style=border-radius: "50%" />
+</div>
 
-🚀 **AI and Data Science enthusiast** passionate about leveraging technology to solve real-world problems. Proficient in full-stack development, machine learning, and creative design, I aim to build impactful solutions.
+Welcome to my GitHub profile! I'm Hari, an AI Engineer and Data Scientist with a passion for creating innovative and impactful solutions. I thrive on solving real-world problems through technology and enjoy exploring new tools and frameworks to expand my skillset.
 
 ---
 
-## 🌟 Key Skills
-- **Programming Languages**: Proficient in Python, Java, JavaScript, and R.
-- **AI & Data Science**: Expertise in machine learning, deep learning, and frameworks like TensorFlow and PyTorch.
-- **Web Development**: Skilled in React.js, Next.js, Node.js, and Django for building dynamic web applications.
-- **Database Management**: Hands-on experience with MongoDB, MySQL, PostgreSQL, and Greenplum.
-- **Frontend Frameworks**: Expertise in Tailwind CSS, Bootstrap, and Material-UI.
-- **Creative Design**: Proficient in Figma, Canva, and Adobe Creative Suite for UI/UX design.
-- **Other Tools**: Experienced with Docker, Streamlit, and Matplotlib for versatile project implementation.
+🔧 My Expertise
+- Programming: Python, JavaScript, TypeScript, Node.js, React, Django
+- Data Science & AI: Machine Learning, Deep Learning, Generative AI
+- Tech Enthusiast: Open-source contributor, Web Developer, and Full-Stack Enthusiast
 
 ---
 
@@ -45,18 +43,16 @@
 
 ---
 
-## 🚀 Projects & Highlights
-- **AI Chatbot**: Enhanced customer interaction and business processes.
-- **Smart Attendance System**: QR and GPS-powered attendance tracker.
-- **DeepFake Detection Tool**: Ensures media authenticity using AI.
-- **Personalized Portfolio**: Showcases skills and projects using React.js, Next.js, and Tailwind CSS.
-
+🌟 What You’ll Find Here
+- Projects: AI Bots, Web Applications, Data Visualization Tools, and much more!
+- Innovations: Cutting-edge projects integrating AI and modern web technologies.
+- Learning Resources: A glimpse into my personal journey and coding explorations.
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hariharanpugazh&theme=radical&hide_border=false&include_all_commits=false&count_private=false" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hariharanpugazh&theme=radical&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hariharanpugazh&theme=radical&hide_border=false&include_all_commits=false&count_private=false" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hariharanpugazh&theme=radical&hide_border=false" width="50%" />
 </p>
 
 ---
