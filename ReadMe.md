@@ -2,7 +2,7 @@
 
 # 👋 Hello Developers!
 
-<img src="Profile.JPG" width="200" style="border-radius: 40%;" />
+<img src="Memoji.jpg" width="200" style="border-radius: 40%;" />
 
 🚀 **AI and Data Science enthusiast** passionate about leveraging technology to solve real-world problems. Proficient in full-stack development, machine learning, and creative design, I aim to build impactful solutions.
 
