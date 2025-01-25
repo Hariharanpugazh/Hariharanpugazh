@@ -58,7 +58,9 @@ Welcome to my GitHub profile! I'm Hari, an AI Engineer and Data Scientist with a
 ---
 
 ## 🔢 Visitor Count
-[![](https://visitcount.itsvg.in/api?id=Hariharanpugazh&icon=0&color=1)](https://visitcount.itsvg.in)
+![Visitor Count](https://profile-counter.glitch.me/Hariharanpugazh/count.svg)
+
+
 
 <blockquote style="font-style: italic; font-size: 1.4em; margin: 20px 0; color: #555;">
     © Hariharanpugazh
