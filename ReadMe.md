@@ -43,12 +43,6 @@ Welcome to my GitHub profile! I'm Hari, an AI Engineer and Data Scientist with a
 
 ---
 
-🌟 What You’ll Find Here
-- Projects: AI Bots, Web Applications, Data Visualization Tools, and much more!
-- Innovations: Cutting-edge projects integrating AI and modern web technologies.
-- Learning Resources: A glimpse into my personal journey and coding explorations.
----
-
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hariharanpugazh&theme=radical&hide_border=false&include_all_commits=false&count_private=false" width="45%" />
