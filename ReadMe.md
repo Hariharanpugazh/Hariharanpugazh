@@ -10,13 +10,6 @@ Welcome to my GitHub profile! I'm Hari, an AI Engineer and Data Scientist with a
 
 ---
 
-🔧 My Expertise
-- Programming: Python, JavaScript, TypeScript, Node.js, React, Django
-- Data Science & AI: Machine Learning, Deep Learning, Generative AI
-- Tech Enthusiast: Open-source contributor, Web Developer, and Full-Stack Enthusiast
-
----
-
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hariharan-z)
 [![Email](https://img.shields.io/badge/Email-white?logo=Gmail&logoColor=black)](mailto:hariharanpugazh@gmail.com)
