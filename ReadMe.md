@@ -14,7 +14,7 @@
   <a href="https://instagram.com/harlee28"><img src="https://img.shields.io/badge/@harlee28-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
-<img align="right" src="https://github.com/Hariharanpugazh/Hariharanpugazh/blob/main/Memoji.jpg" width="200" style="border-radius: 16px;">
+<img align="right" src="https://github.com/Hariharanpugazh/Hariharanpugazh/blob/main/Teaboy.jpg" width="180" style="border-radius: 20px;">
 
 ---
 
