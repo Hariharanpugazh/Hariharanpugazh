@@ -52,7 +52,7 @@
 <tr>
 <td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48"><br>Figma</td>
 <td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48"><br>Firebase</td>
-<td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcp/gcp-original.svg" width="48"><br>GCP</td>
+<td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48"><br>GCP</td>
 <td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"><br>Git</td>
 <td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48"><br>GitHub</td>
 <td align="center" width="100" style="padding:15px;"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/huggingface.svg" width="48"><br>HuggingFace</td>
