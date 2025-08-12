@@ -1,129 +1,161 @@
-<!-- HEADER SECTION -->
-<h1 align="left">Hey 👋, I'm Hari Haran</h1>
+## About Me
 
-<p align="left">
-  <b>AI Engineer | Full Stack Developer | Data Scientist</b><br>
-  Building impactful AI-driven solutions with Django, React, MongoDB, and Streamlit.<br>
-  🔭 Currently working on: <a href="https://harlee.pro/projects/bioprompt">BioPrompt.AI</a>
-</p>
+<table align="center">
+  <tr>
+    <!-- LEFT: Photo + Social -->
+    <td align="center" width="30%">
+      <img
+        src="https://raw.githubusercontent.com/Hariharanpugazh/Hariharanpugazh/main/Teaboy.jpg"
+        alt="Hari Haran"
+        width="200"
+        style="border-radius:50%;object-fit:cover;border:2px solid #ccc;box-shadow:0 0 8px rgba(0,0,0,0.15);" />
+      <br/><br/>
+  
 
-<p align="left">
-  <a href="https://harlee.pro"><img src="https://img.shields.io/badge/Portfolio-harlee.pro-black?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/hariharan-z"><img src="https://img.shields.io/badge/LinkedIn-Hariharan--z-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:hariharanpugazh@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://instagram.com/harlee28"><img src="https://img.shields.io/badge/@harlee28-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
+<!-- RIGHT: Bio -->
+<td width="70%" valign="middle">
+  <h3>Hari Haran</h3>
+  <p><em>AI Engineer • Full Stack Developer • Data Scientist</em></p>
 
-<img align="right" src="https://github.com/Hariharanpugazh/Hariharanpugazh/blob/main/Teaboy.jpg" width="180" style="border-radius: 20px;">
+  <p>
+    Crafting impactful AI-driven solutions using <b>Django</b>, <b>React</b>, <b>MongoDB</b>, and <b>Streamlit</b>.<br/>
+    Currently building: <a href="https://harlee.pro/projects/bioprompt"><b>BioPrompt.AI</b></a>
+  </p>
 
----
-
-## 🧠 About Me
-
-- 🌱 Exploring: LangGraph, MCP (Model Context Protocol), Gemini + n8n Workflows  
-- 🎯 AI Projects: `FestiFly-AI`, `DocSentra`, `DeepSecure AI`, `ZARA Bot`  
-- 🏆 Awards: All Round Performer Nominee – SNS College of Engineering  
-- 📍 Live in: Coimbatore, India  
-- 🌐 Domains Owned: [harlee.pro](https://harlee.pro)
-
----
-
-## 🔧 Tech Stack
-
-### 🖥 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-### ⚙️ Frameworks & Libraries
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-3E8EDE?style=flat&logo=websockets&logoColor=white)
-
-### 🎨 UI & Design
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
-
-### 💾 Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-
-### ☁️ Cloud / DevOps
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-
-### 🧠 AI & Tools
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-F9A826?style=flat&logo=huggingface&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Rev.ai](https://img.shields.io/badge/Rev.ai-FF2C7E?style=flat&logo=rev&logoColor=white)
-
-### 🔧 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+  <ul>
+    <li><b>Exploring:</b> LangGraph, MCP (Model Context Protocol), Gemini + n8n Workflows</li>
+    <li><b>AI Projects:</b> <code>FestiFly-AI</code>, <code>DocSentra</code>, <code>DeepSecure AI</code>, <code>ZARA Bot</code></li>
+    <li><b>Recognition:</b> <em>All Round Performer Nominee</em> — SNS College of Engineering</li>
+    <li><b>Location:</b> Coimbatore, India • <b>Domain:</b> <a href="https://harlee.pro">harlee.pro</a></li>
+  </ul>
+</td>
+  </tr>
+</table>
 
 
----
 
-## 📜 Certifications
+## Skills
 
-- 🥇 Salesforce Agentforce Specialist – Apr 2025  
-- 🧠 Postman API Fundamentals Expert – Jun 2025  
-- 🧠 Generative AI Fundamentals – Oct 2024  
-- 💻 Databricks Lakehouse Accreditation – Oct 2025  
-- 🚀 Google Cloud Innovators+ (35 Credits)  
-- ☁️ AWS Educate Certified – 2025  
+<table align="center">
+<tr>
+<td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="48"><br>Android Studio</td>
+<td align="center" width="100" style="padding:15px;"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="48"><br>AWS</td>
+<td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="48"><br>Azure</td>
+<td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="48"><br>Canva</td>
+<td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="48"><br>Cloudflare</td>
+<td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48"><br>CSS3</td>
+<td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="48"><br>Django</td>
+<td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48"><br>Docker</td>
+<td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48"><br>FastAPI</td>
+</tr>
 
----
+<tr>
+<td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48"><br>Figma</td>
+<td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48"><br>Firebase</td>
+<td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcp/gcp-original.svg" width="48"><br>GCP</td>
+<td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"><br>Git</td>
+<td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48"><br>GitHub</td>
+<td align="center" width="100" style="padding:15px;"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/huggingface.svg" width="48"><br>HuggingFace</td>
+<td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48"><br>HTML5</td>
+<td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48"><br>JavaScript</td>
+<td align="center" width="100" style="padding:15px;"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" width="48"><br>LangChain</td>
+</tr>
 
-## 📊 GitHub Analytics
+<tr>
+<td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48"><br>MongoDB</td>
+<td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48"><br>MySQL</td>
+<td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48"><br>Next.js</td>
+<td align="center" width="100" style="padding:15px;"><img src="https://cdn.simpleicons.org/n8n/EA4E62" width="48"><br>n8n</td>
+<td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48"><br>Node.js</td>
+<td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48"><br>NumPy</td>
+<td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48"><br>OpenCV</td>
+<td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48"><br>PostgreSQL</td>
+<td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48"><br>Postman</td>
+</tr>
 
-<!-- Modern Graph Stats -->
+<tr>
+<td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48"><br>PyTorch</td>
+<td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"><br>Python</td>
+<td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48"><br>React</td>
+<td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48"><br>Redis</td>
+<td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="48"><br>Streamlit</td>
+<td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48"><br>Tailwind CSS</td>
+<td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48"><br>TensorFlow</td>
+<td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48"><br>TypeScript</td>
+<td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="48"><br>Vercel</td>
+</tr>
+</table>
+
+
+
+## Professional Certifications
+
+<table>
+<tr>
+<td width="33%" align="center" style="padding: 15px; vertical-align: top;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" width="48" height="48" alt="Salesforce" /><br><br>
+  <b>Salesforce Certified Agentforce Specialist</b><br>
+  <sub>Issued: Apr 2025</sub>
+</td>
+<td width="33%" align="center" style="padding: 15px; vertical-align: top;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48" height="48" alt="Postman" /><br><br>
+  <b>Postman API Fundamentals Student Expert</b><br>
+  <sub>Issued: Jun 2025</sub>
+</td>
+<td width="33%" align="center" style="padding: 15px; vertical-align: top;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" width="48" height="48" alt="Microsoft Azure" /><br><br>
+  <b>Microsoft Certified: Azure AI Fundamentals</b><br>
+  <sub>Issued: Aug 2025</sub>
+</td>
+</tr>
+
+<tr>
+<td width="33%" align="center" style="padding: 15px; vertical-align: top;">
+  <img src="https://cdn.simpleicons.org/databricks/050505" width="48" alt="Databricks" /><br><br>
+  <b>Databricks Lakehouse Fundamentals</b><br>
+  <sub>Issued: Oct 2025</sub>
+</td>
+<td width="33%" align="center" style="padding: 15px; vertical-align: top;">
+  <img src="https://cdn.simpleicons.org/databricks/050505" width="48" alt="Databricks" /><br><br>
+  <b>Databricks GenAI Fundamentals</b><br>
+  <sub>Issued: Oct 2024</sub>
+</td>
+<td width="33%" align="center" style="padding: 15px; vertical-align: top;">
+  <img src="https://cdn.simpleicons.org/databricks/050505" width="48" alt="Databricks" /><br><br>
+  <b>Databricks Fundamentals Accreditation</b><br>
+  <sub>Issued: Oct 2024</sub>
+</td>
+</tr>
+</table>
+
+
+## GitHub Insights
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hariharanpugazh&theme=github_dark" width="95%"><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hariharanpugazh&theme=github-compact&hide_border=true" width="95%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hariharanpugazh&theme=github_dark" width="95%">
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hariharanpugazh&theme=github-compact&hide_border=true" width="95%">
 </p>
 
 ---
 
-## 🎯 Visitor Counter
+## Visitor Counter
 <p align="center">
-  <img src="https://count.getloli.com/get/@Hariharanpugazh?theme=moebooru" alt="Profile Views" />
+  <img src="https://count.getloli.com/get/@Hariharanpugazh?theme=moebooru" alt="Profile Views">
 </p>
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Hariharanpugazh/count.svg" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/Hariharanpugazh/count.svg" alt="Visitor Count">
 </p>
 
 ---
 
-## 🤝 Let’s Collaborate!
+## Let’s Collaborate!
+> *“Build real, solve problems, leave impact.”*
 
-> “Build real, solve problems, leave impact.”
-
-I'm always open to collaborating on AI-based tools, full stack apps, and developer workflows.  
-Let’s build something meaningful — reach out!
-
----
-
-<p align="center" style="font-style: italic;">
-  Built with ❤️ by <strong>Hari Haran</strong> | Inspired by Innovation ⚡
-</p>
-
-<p align="center" style="font-style: italic; font-size: 1.2em; color: #aaa;">
-  © Hariharanpugazh
-</p>
+I’m always open to collaborating on **AI tools, full-stack applications, and developer workflows**.  
+Let’s connect and build something meaningful — just reach out!
 
 ---
+
+<p align="center">
+  Built with ❤️ by <b>Hari Haran</b> | Inspired by Innovation ⚡
+</p>
