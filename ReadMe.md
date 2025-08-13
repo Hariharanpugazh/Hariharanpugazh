@@ -86,42 +86,56 @@
 </tr>
 </table>
 
-
-
 ## Professional Certifications
 
-<table>
+<table style="width:100%; border-collapse: collapse; table-layout: fixed;">
 <tr>
-<td width="33%" align="center" style="padding: 15px; vertical-align: top;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" width="48" height="48" alt="Salesforce" /><br><br>
+<td style="width:33%; padding: 15px; vertical-align: top; height: 180px;">
+  <div style="text-align:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" width="48" height="48" alt="Salesforce" />
+  </div>
   <b>Salesforce Certified Agentforce Specialist</b><br>
   <sub>Issued: Apr 2025</sub>
 </td>
-<td width="33%" align="center" style="padding: 15px; vertical-align: top;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48" height="48" alt="Postman" /><br><br>
+
+<td style="width:33%; padding: 15px; vertical-align: top; height: 180px;">
+  <div style="text-align:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48" height="48" alt="Postman" />
+  </div>
   <b>Postman API Fundamentals Student Expert</b><br>
   <sub>Issued: Jun 2025</sub>
 </td>
-<td width="33%" align="center" style="padding: 15px; vertical-align: top;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" width="48" height="48" alt="Microsoft Azure" /><br><br>
+
+<td style="width:33%; padding: 15px; vertical-align: top; height: 180px;">
+  <div style="text-align:center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" width="48" height="48" alt="Microsoft Azure" />
+  </div>
   <b>Microsoft Certified: Azure AI Fundamentals</b><br>
   <sub>Issued: Aug 2025</sub>
 </td>
 </tr>
 
 <tr>
-<td width="33%" align="center" style="padding: 15px; vertical-align: top;">
-  <img src="https://cdn.simpleicons.org/databricks/050505" width="48" alt="Databricks" /><br><br>
+<td style="width:33%; padding: 15px; vertical-align: top; height: 180px;">
+  <div style="text-align:center;">
+    <img src="https://cdn.simpleicons.org/databricks/050505" width="48" alt="Databricks" />
+  </div>
   <b>Databricks Lakehouse Fundamentals</b><br>
   <sub>Issued: Oct 2025</sub>
 </td>
-<td width="33%" align="center" style="padding: 15px; vertical-align: top;">
-  <img src="https://cdn.simpleicons.org/databricks/050505" width="48" alt="Databricks" /><br><br>
+
+<td style="width:33%; padding: 15px; vertical-align: top; height: 180px;">
+  <div style="text-align:center;">
+    <img src="https://cdn.simpleicons.org/databricks/050505" width="48" alt="Databricks" />
+  </div>
   <b>Databricks GenAI Fundamentals</b><br>
   <sub>Issued: Oct 2024</sub>
 </td>
-<td width="33%" align="center" style="padding: 15px; vertical-align: top;">
-  <img src="https://cdn.simpleicons.org/databricks/050505" width="48" alt="Databricks" /><br><br>
+
+<td style="width:33%; padding: 15px; vertical-align: top; height: 180px;">
+  <div style="text-align:center;">
+    <img src="https://cdn.simpleicons.org/databricks/050505" width="48" alt="Databricks" />
+  </div>
   <b>Databricks Fundamentals Accreditation</b><br>
   <sub>Issued: Oct 2024</sub>
 </td>
