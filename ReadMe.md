@@ -1,21 +1,20 @@
-## About Me 
+## About Me
 
-<table align="center">
+<table align="center" style="width:100%; border-collapse:separate; border-spacing:12px; background:rgba(255,255,255,.03); border:1px solid rgba(255,255,255,.08); border-radius:12px;">
   <tr>
-    <!-- LEFT: Photo + Social -->
-    <td align="center" width="30%">
+    <!-- LEFT: Photo -->
+    <td align="center" style="width:30%; padding:20px; vertical-align:middle;">
       <img
         src="https://raw.githubusercontent.com/Hariharanpugazh/Hariharanpugazh/main/Teaboy.jpg"
-        alt="Hari Haran"
+        alt="Hariharan"
         width="200"
-        style="border-radius:50%;object-fit:cover;border:2px solid #ccc;box-shadow:0 0 8px rgba(0,0,0,0.15);" />
-      <br/><br/>
-  
+        style="border-radius:50%; object-fit:cover; border:2px solid #ccc; box-shadow:0 0 8px rgba(0,0,0,0.15);" />
+    </td>
 
-<!-- RIGHT: Bio -->
-<td width="70%" valign="middle">
-  <h3>Hari Haran</h3>
-  <p><em>AI Engineer • Full Stack Developer • Data Scientist</em></p>
+  <!-- RIGHT: Bio -->
+  <td style="width:70%; padding:20px; vertical-align:middle;">
+    <h3>Hariharan</h3>
+    <p><em>AI Engineer • Full Stack Developer • Data Scientist</em></p>
 
   <p>
     Crafting impactful AI-driven solutions using <b>Django</b>, <b>React</b>, <b>MongoDB</b>, and <b>Streamlit</b>.<br/>
@@ -28,11 +27,9 @@
     <li><b>Recognition:</b> <em>All Round Performer Nominee</em> — SNS College of Engineering</li>
     <li><b>Location:</b> Coimbatore, India • <b>Domain:</b> <a href="https://harlee.pro">harlee.pro</a></li>
   </ul>
-</td>
+  </td>
   </tr>
 </table>
-
-
 
 ## Skills
 
