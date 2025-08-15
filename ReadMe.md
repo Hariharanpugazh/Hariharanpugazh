@@ -142,15 +142,34 @@
 </tr>
 </table>
 
+## GitHub Dashboard
 
-## GitHub Insights
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hariharanpugazh&theme=github_dark" width="95%">
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hariharanpugazh&theme=github-compact&hide_border=true" width="95%">
-</p>
+<!-- Full-width, single card layout with even gutters -->
+<table align="center" style="width:100%; border-collapse:separate; border-spacing:12px; background:rgba(255,255,255,.03); border:1px solid rgba(255,255,255,.08); border-radius:12px;">
+  <!-- Row 1: Stats + Streak (two equal columns) -->
+  <tr>
+    <td style="width:50%; padding:0; background:rgba(255,255,255,.02); border:1px solid rgba(255,255,255,.08); border-radius:8px;">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=Hariharanpugazh&show_icons=true&include_all_commits=true&rank_icon=github&theme=github_dark&hide_border=true"
+        alt="GitHub Stats for Hariharan P" width="100%">
+    </td>
+    <td style="width:50%; padding:0; background:rgba(255,255,255,.02); border:1px solid rgba(255,255,255,.08); border-radius:8px;">
+      <img
+        src="https://streak-stats.demolab.com?user=Hariharanpugazh&theme=github-dark&hide_border=true"
+        alt="GitHub Streak for Hariharan P" width="100%">
+    </td>
+  </tr>
 
----
+  <!-- Row 2: Activity graph (full width) -->
+  <tr>
+    <td colspan="2" style="padding:0; background:rgba(255,255,255,.02); border:1px solid rgba(255,255,255,.08); border-radius:8px;">
+      <img
+        src="https://github-readme-activity-graph.vercel.app/graph?username=Hariharanpugazh&theme=github-compact&hide_border=true"
+        alt="GitHub Activity Graph for Hariharan P" width="100%">
+    </td>
+  </tr>
+</table>
+
 
 ## Visitor Counter
 <p align="center">
@@ -160,16 +179,44 @@
   <img src="https://profile-counter.glitch.me/Hariharanpugazh/count.svg" alt="Visitor Count">
 </p>
 
+## 🤝 Let’s Collaborate
+
+<table align="center" style="width:100%; border-collapse:separate; border-spacing:12px;">
+  <tr>
+    <td style="
+      background:linear-gradient(180deg, rgba(255,255,255,.04), rgba(255,255,255,.02));
+      border:1px solid rgba(255,255,255,.10);
+      border-radius:14px; 
+      padding:28px 26px; /* More space top, bottom, left, right */
+    ">
+
+  <!-- Tagline -->
+  <div align="center" style="opacity:.88; font-style:italic; font-size:15px; font-weight:500; margin-bottom:20px; letter-spacing:0.3px;">
+    “Code with purpose. Build for impact.”
+  </div>
+
+  <!-- Call-to-Action Buttons -->
+  <div align="center" style="margin-top:7px; display:flex; flex-wrap:wrap; justify-content:center; gap:16px;">
+    <a href="https://harlee.pro" style="text-decoration:none;">
+      <img src="https://img.shields.io/badge/Portfolio-harlee.pro-1f6feb?style=for-the-badge&labelColor=0d1117&logo=googlechrome&logoColor=white" alt="Portfolio">
+    </a>
+    <a href="https://linkedin.com/in/hariharan-z" style="text-decoration:none;">
+      <img src="https://img.shields.io/badge/LinkedIn-hariharan--z-0A66C2?style=for-the-badge&labelColor=0d1117&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto:hariharanpugazh@gmail.com?subject=Collaboration%20Inquiry" style="text-decoration:none;">
+      <img src="https://img.shields.io/badge/Email-hariharanpugazh%40gmail.com-D14836?style=for-the-badge&labelColor=0d1117&logo=gmail&logoColor=white" alt="Email">
+    </a>
+    <a href="https://instagram.com/harlee28" style="text-decoration:none;">
+      <img src="https://img.shields.io/badge/Instagram-@harlee28-E4405F?style=for-the-badge&labelColor=0d1117&logo=instagram&logoColor=white" alt="Instagram">
+    </a>
+  </div>
+
+</td>
+  </tr>
+</table>
+
+  </tr>
+</table>
+
 ---
 
-## Let’s Collaborate!
-> *“Build real, solve problems, leave impact.”*
-
-I’m always open to collaborating on **AI tools, full-stack applications, and developer workflows**.  
-Let’s connect and build something meaningful — just reach out!
-
----
-
-<p align="center">
-  Built with ❤️ by <b>Hari Haran</b> | Inspired by Innovation ⚡
-</p>
