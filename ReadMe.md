@@ -176,44 +176,45 @@
   <img src="https://profile-counter.glitch.me/Hariharanpugazh/count.svg" alt="Visitor Count">
 </p>
 
-## 🤝 Let’s Collaborate
 
-<table align="center" style="width:100%; border-collapse:separate; border-spacing:12px;">
-  <tr>
-    <td style="
-      background:linear-gradient(180deg, rgba(255,255,255,.04), rgba(255,255,255,.02));
-      border:1px solid rgba(255,255,255,.10);
-      border-radius:14px; 
-      padding:28px 26px; /* More space top, bottom, left, right */
-    ">
 
-  <!-- Tagline -->
-  <div align="center" style="opacity:.88; font-style:italic; font-size:15px; font-weight:500; margin-bottom:20px; letter-spacing:0.3px;">
-    “Code with purpose. Build for impact.”
-  </div>
+## 🤝 Let’s Collaborate  
 
-  <!-- Call-to-Action Buttons -->
-  <div align="center" style="margin-top:7px; display:flex; flex-wrap:wrap; justify-content:center; gap:16px;">
-    <a href="https://harlee.pro" style="text-decoration:none;">
-      <img src="https://img.shields.io/badge/Portfolio-harlee.pro-1f6feb?style=for-the-badge&labelColor=0d1117&logo=googlechrome&logoColor=white" alt="Portfolio">
-    </a>
-    <a href="https://linkedin.com/in/hariharan-z" style="text-decoration:none;">
-      <img src="https://img.shields.io/badge/LinkedIn-hariharan--z-0A66C2?style=for-the-badge&labelColor=0d1117&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="mailto:hariharanpugazh@gmail.com?subject=Collaboration%20Inquiry" style="text-decoration:none;">
-      <img src="https://img.shields.io/badge/Email-hariharanpugazh%40gmail.com-D14836?style=for-the-badge&labelColor=0d1117&logo=gmail&logoColor=white" alt="Email">
-    </a>
-    <a href="https://instagram.com/harlee28" style="text-decoration:none;">
-      <img src="https://img.shields.io/badge/Instagram-@harlee28-E4405F?style=for-the-badge&labelColor=0d1117&logo=instagram&logoColor=white" alt="Instagram">
-    </a>
-  </div>
-
-</td>
-  </tr>
-</table>
-
+🚀 **Build Real • Solve Problems • Leave Impact**  
+<div align="center">
+<table>
+  <tr align="center">
+    <td>
+      <a href="https://harlee.pro" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/chrome--v1.png" width="40"/><br>
+        <b>Portfolio</b>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"/><br>
+        <b>LinkedIn</b>
+      </a>
+    </td>
+    <td>
+      <a href="mailto:yourmail@gmail.com" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/gmail.png" width="40"/><br>
+        <b>Email</b>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.instagram.com/your-instagram" target="_blank">
+        <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="40"/><br>
+        <b>Instagram</b>
+      </a>
+    </td>
   </tr>
 </table>
 
 ---
+
+💖 Built with love by **Hari Haran** • ⚡ Always open for collaborations  
+
+</div>
+
 
