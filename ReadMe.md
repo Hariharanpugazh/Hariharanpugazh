@@ -83,6 +83,7 @@
 </tr>
 </table>
 
+
 ## Professional Certifications
 
 <table style="width:100%; border-collapse: collapse; table-layout: fixed;">
@@ -177,7 +178,6 @@
 </p>
 
 
-
 ## 🤝 Let’s Collaborate  
 
 🚀 **Build Real • Solve Problems • Leave Impact**  
@@ -191,19 +191,19 @@
       </a>
     </td>
     <td>
-      <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+      <a href="https://www.linkedin.com/in/hari-haran-z" target="_blank">
         <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"/><br>
         <b>LinkedIn</b>
       </a>
     </td>
     <td>
-      <a href="mailto:yourmail@gmail.com" target="_blank">
+      <a href="mailto:hariharanpugazh@gmail.com" target="_blank">
         <img src="https://img.icons8.com/color/48/000000/gmail.png" width="40"/><br>
         <b>Email</b>
       </a>
     </td>
     <td>
-      <a href="https://www.instagram.com/your-instagram" target="_blank">
+      <a href="https://www.instagram.com/harlee_28" target="_blank">
         <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="40"/><br>
         <b>Instagram</b>
       </a>
