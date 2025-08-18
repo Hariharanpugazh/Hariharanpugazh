@@ -63,7 +63,7 @@
 <td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48"><br>MySQL</td>
 <td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48"><br>Next.js</td>
 <td align="center" width="100" style="padding:15px;"><img src="https://cdn.simpleicons.org/n8n/EA4E62" width="48"><br>n8n</td>
-<td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48"><br>Node.js</td>
+<td align="center" width="120" style="padding:15px;"><img src="https://img.icons8.com/color/48/000000/nodejs.png" width="48"><br><b>Node.js</b></td>
 <td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48"><br>NumPy</td>
 <td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48"><br>OpenCV</td>
 <td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48"><br>PostgreSQL</td>
