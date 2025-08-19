@@ -1,31 +1,30 @@
 name: Build Isometric Blocks
 
 on:
-  schedule:
-    - cron: "0 6 * * *"         # runs daily 06:00 UTC
   workflow_dispatch:
+  schedule:
+    - cron: '0 6 * * *'  # daily, adjust if you want
 
 permissions:
-  contents: write               # <-- REQUIRED so the action can commit the SVG
+  contents: write        # <— needed to push metrics/isometric.svg
 
 jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
       - name: Generate isometric contributions
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@latest   # pull latest plugin set
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}   # enough for a public profile
           user: Hariharanpugazh
+          filename: metrics/isometric.svg
           template: classic
-          base: ""
+          base: ""                          # keep it minimal (just the plugin)
           config_timezone: Asia/Kolkata
 
-          # output file (committed to the default branch)
-          filename: metrics/isometric.svg
-
-          # Isometric plugin
+          # ---- Isometric plugin (this is the important part) ----
           plugin_isometric: yes
           plugin_isometric_animated: yes
-          plugin_isometric_duration: full-year
-          plugin_isometric_mode: contribution
+          plugin_isometric_duration: 200     # ms per frame
+          plugin_isometric_quality: 1        # 0..1 (1 = max)
+          plugin_isometric_shape: 6          # tile shape (0..6)
