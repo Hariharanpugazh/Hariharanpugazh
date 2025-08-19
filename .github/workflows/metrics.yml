@@ -1,7 +1,12 @@
 name: Build Isometric Blocks
+
 on:
-  schedule: [{ cron: "0 6 * * *" }]    # daily @ 06:00 UTC
+  schedule:
+    - cron: "0 6 * * *"         # runs daily 06:00 UTC
   workflow_dispatch:
+
+permissions:
+  contents: write               # <-- REQUIRED so the action can commit the SVG
 
 jobs:
   metrics:
@@ -15,10 +20,12 @@ jobs:
           template: classic
           base: ""
           config_timezone: Asia/Kolkata
+
+          # output file (committed to the default branch)
           filename: metrics/isometric.svg
 
-          # Isometric "blocks" plugin
+          # Isometric plugin
           plugin_isometric: yes
-          plugin_isometric_duration: full-year          # last 12 months
-          plugin_isometric_animated: yes                # animate build-up
-          plugin_isometric_mode: contribution           # show contributions
+          plugin_isometric_animated: yes
+          plugin_isometric_duration: full-year
+          plugin_isometric_mode: contribution
