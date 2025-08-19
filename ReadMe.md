@@ -23,7 +23,7 @@
 
   <ul>
     <li><b>Exploring:</b> LangGraph, MCP (Model Context Protocol), Gemini + n8n Workflows</li>
-    <li><b>AI Projects:</b> <code>FestiFly-AI</code>, <code>DocSentra</code>, <code>DeepSecure AI</code>, <code>ZARA Bot</code></li>
+    <li><b>AI Projects:</b> <code>FestiFly-AI</code>, <code>LoveConnect</code>, <code>DeepSecure AI</code>, <code>ZARA Bot</code></li>
     <li><b>Recognition:</b> <em>All Round Performer Nominee</em> — SNS College of Engineering</li>
     <li><b>Location:</b> Coimbatore, India • <b>Domain:</b> <a href="https://harlee.pro">harlee.pro</a></li>
   </ul>
@@ -52,7 +52,7 @@
 <td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48"><br>GCP</td>
 <td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"><br>Git</td>
 <td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48"><br>GitHub</td>
-<td align="center" width="100" style="padding:15px;"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/huggingface.svg" width="48"><br>HuggingFace</td>
+<td align="center" width="100" style="padding:15px;"><img src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/huggingface-color.svg" width="48"><br>HuggingFace</td>
 <td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48"><br>HTML5</td>
 <td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48"><br>JavaScript</td>
 <td align="center" width="100" style="padding:15px;"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" width="48"><br>LangChain</td>
@@ -81,6 +81,37 @@
 <td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48"><br>TypeScript</td>
 <td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="48"><br>Vercel</td>
 </tr>
+
+  <tr>
+    <td align="center" width="100" style="padding:15px;">
+      <img src="https://github.com/simple-icons/simple-icons/raw/refs/heads/develop/icons/langgraph.svg" width="48" alt="LangGraph"><br>LangGraph
+    </td>
+        <td align="center" width="100" style="padding:15px;">
+      <img src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/crewai.svg" width="48" alt="CrewAI"><br>CrewAI
+    </td>
+    <td align="center" width="100" style="padding:15px;">
+      <img src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/mistral-color.svg" width="48" alt="AutoGen"><br>Mistral
+    </td>
+    <td align="center" width="100" style="padding:15px;">
+      <img src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/llamaindex-color.svg" width="48" alt="LlamaIndex"><br>LlamaIndex
+    </td>
+    <td align="center" width="100" style="padding:15px;">
+      <img src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/claude-color.svg" width="48" alt="Claude"><br>Claude
+    </td>
+    <td align="center" width="100" style="padding:15px;">
+      <img src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/ollama.svg" width="48" alt="Chainlit"><br>Ollama
+    </td>
+    <td align="center" width="100" style="padding:15px;">
+      <img src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/vertexai-color.svg" width="48" alt="Vertex AI"><br>Vertex&nbsp;AI
+    </td>
+    <td align="center" width="100" style="padding:15px;">
+      <img src="https://github.com/simple-icons/simple-icons/raw/refs/heads/develop/icons/openai.svg" width="48" alt="OpenAI API"><br>OpenAI
+    </td>
+    <td align="center" width="100" style="padding:15px;">
+      <img src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/gemini-color.svg" width="48" alt="OpenAI API"><br>Gemini
+    </td>
+  </tr>
+  
 </table>
 
 
@@ -116,7 +147,7 @@
 <tr>
 <td style="width:33%; padding: 15px; vertical-align: top; height: 180px;">
   <div style="text-align:center;">
-    <img src="https://cdn.simpleicons.org/databricks/050505" width="48" alt="Databricks" />
+    <img src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/dbrx-color.svg" width="48" alt="Databricks" />
   </div>
   <b>Databricks Lakehouse Fundamentals</b><br>
   <sub>Issued: Oct 2025</sub>
@@ -124,7 +155,7 @@
 
 <td style="width:33%; padding: 15px; vertical-align: top; height: 180px;">
   <div style="text-align:center;">
-    <img src="https://cdn.simpleicons.org/databricks/050505" width="48" alt="Databricks" />
+    <img src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/dbrx-color.svg" width="48" alt="Databricks" />
   </div>
   <b>Databricks GenAI Fundamentals</b><br>
   <sub>Issued: Oct 2024</sub>
@@ -132,7 +163,7 @@
 
 <td style="width:33%; padding: 15px; vertical-align: top; height: 180px;">
   <div style="text-align:center;">
-    <img src="https://cdn.simpleicons.org/databricks/050505" width="48" alt="Databricks" />
+    <img src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/dbrx-color.svg" width="48" alt="Databricks" />
   </div>
   <b>Databricks Fundamentals Accreditation</b><br>
   <sub>Issued: Oct 2024</sub>
