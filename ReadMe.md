@@ -34,6 +34,8 @@
 ## Skills
 
 <table align="center">
+
+<!-- Row 1 -->
 <tr>
 <td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="48"><br>Android Studio</td>
 <td align="center" width="100" style="padding:15px;"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="48"><br>AWS</td>
@@ -46,6 +48,7 @@
 <td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48"><br>FastAPI</td>
 </tr>
 
+<!-- Row 2 -->
 <tr>
 <td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48"><br>Figma</td>
 <td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48"><br>Firebase</td>
@@ -55,23 +58,24 @@
 <td align="center" width="100" style="padding:15px;"><img src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/huggingface-color.svg" width="48"><br>HuggingFace</td>
 <td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48"><br>HTML5</td>
 <td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48"><br>JavaScript</td>
-<td align="center" width="100" style="padding:15px;"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" width="48"><br>LangChain</td>
+<td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48"><br>MongoDB</td>
 </tr>
 
+<!-- Row 3 -->
 <tr>
-<td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48"><br>MongoDB</td>
 <td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48"><br>MySQL</td>
 <td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48"><br>Next.js</td>
+<td align="center" width="100" style="padding:15px;"><img src="https://img.icons8.com/color/48/000000/nodejs.png" width="48"><br>Node.js</td>  
 <td align="center" width="100" style="padding:15px;"><img src="https://cdn.simpleicons.org/n8n/EA4E62" width="48"><br>n8n</td>
-<td align="center" width="120" style="padding:15px;"><img src="https://img.icons8.com/color/48/000000/nodejs.png" width="48"><br><b>Node.js</b></td>
 <td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48"><br>NumPy</td>
 <td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48"><br>OpenCV</td>
 <td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48"><br>PostgreSQL</td>
 <td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48"><br>Postman</td>
+<td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48"><br>PyTorch</td>
 </tr>
 
+<!-- Row 4 -->
 <tr>
-<td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48"><br>PyTorch</td>
 <td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"><br>Python</td>
 <td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48"><br>React</td>
 <td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48"><br>Redis</td>
@@ -80,39 +84,24 @@
 <td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48"><br>TensorFlow</td>
 <td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48"><br>TypeScript</td>
 <td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="48"><br>Vercel</td>
+<td align="center" width="100" style="padding:15px;"><img src="https://simpleicons.org/icons/socketdotio.svg" width="48"><br>Websockets</td>  
 </tr>
 
-  <tr>
-    <td align="center" width="100" style="padding:15px;">
-      <img src="https://github.com/simple-icons/simple-icons/raw/refs/heads/develop/icons/langgraph.svg" width="48" alt="LangGraph"><br>LangGraph
-    </td>
-        <td align="center" width="100" style="padding:15px;">
-      <img src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/crewai.svg" width="48" alt="CrewAI"><br>CrewAI
-    </td>
-    <td align="center" width="100" style="padding:15px;">
-      <img src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/mistral-color.svg" width="48" alt="AutoGen"><br>Mistral
-    </td>
-    <td align="center" width="100" style="padding:15px;">
-      <img src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/llamaindex-color.svg" width="48" alt="LlamaIndex"><br>LlamaIndex
-    </td>
-    <td align="center" width="100" style="padding:15px;">
-      <img src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/claude-color.svg" width="48" alt="Claude"><br>Claude
-    </td>
-    <td align="center" width="100" style="padding:15px;">
-      <img src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/ollama.svg" width="48" alt="Chainlit"><br>Ollama
-    </td>
-    <td align="center" width="100" style="padding:15px;">
-      <img src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/vertexai-color.svg" width="48" alt="Vertex AI"><br>Vertex&nbsp;AI
-    </td>
-    <td align="center" width="100" style="padding:15px;">
-      <img src="https://github.com/simple-icons/simple-icons/raw/refs/heads/develop/icons/openai.svg" width="48" alt="OpenAI API"><br>OpenAI
-    </td>
-    <td align="center" width="100" style="padding:15px;">
-      <img src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/gemini-color.svg" width="48" alt="OpenAI API"><br>Gemini
-    </td>
-  </tr>
-  
+<!-- Row 5 (AI / LLM Tools, sorted A-Z) -->
+<tr>
+<td align="center" width="100" style="padding:15px;"><img src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/claude-color.svg" width="48"><br>Claude</td>
+<td align="center" width="100" style="padding:15px;"><img src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/crewai.svg" width="48"><br>CrewAI</td>
+<td align="center" width="100" style="padding:15px;"><img src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/gemini-color.svg" width="48"><br>Gemini</td>
+<td align="center" width="100" style="padding:15px;"><img src="https://github.com/simple-icons/simple-icons/raw/refs/heads/develop/icons/langchain.svg" width="48"><br>LangChain</td>
+<td align="center" width="100" style="padding:15px;"><img src="https://github.com/simple-icons/simple-icons/raw/refs/heads/develop/icons/langgraph.svg" width="48"><br>LangGraph</td>
+<td align="center" width="100" style="padding:15px;"><img src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/llamaindex-color.svg" width="48"><br>LlamaIndex</td>
+<td align="center" width="100" style="padding:15px;"><img src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/mistral-color.svg" width="48"><br>Mistral</td>
+<td align="center" width="100" style="padding:15px;"><img src="https://github.com/simple-icons/simple-icons/raw/refs/heads/develop/icons/openai.svg" width="48"><br>OpenAI</td>
+<td align="center" width="100" style="padding:15px;"><img src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/vertexai-color.svg" width="48"><br>Vertex AI</td>
+</tr>
+
 </table>
+
 
 
 ## Professional Certifications
