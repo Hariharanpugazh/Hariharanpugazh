@@ -2,17 +2,21 @@ name: GitHub Contribution Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # every 12 hours
+    - cron: "0 */12 * * *"  # every 12 hours
   workflow_dispatch:
+
+# IMPORTANT: let GITHUB_TOKEN push the generated files
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - name: Generate Snake
+      - name: Generate Snake SVGs
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -21,10 +25,11 @@ jobs:
             dist/snake-dark.svg?palette=github-dark
             dist/snake-light.svg?palette=github-light
 
-      - name: Push Snake
-        uses: crazy-max/ghaction-github-pages@v3
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
+          keep_history: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
