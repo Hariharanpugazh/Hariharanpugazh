@@ -272,6 +272,14 @@
 <p align="center">
   <img src="https://profile-counter.glitch.me/Hariharanpugazh/count.svg" alt="Visitor Count">
 </p>
+<p align="center">
+  <!-- Light mode -->
+  <img src="https://raw.githubusercontent.com/Hariharanpugazh/Hariharanpugazh/output/snake-light.svg#gh-light-mode-only" alt="GitHub Snake Light" />
+
+  <!-- Dark mode -->
+  <img src="https://raw.githubusercontent.com/Hariharanpugazh/Hariharanpugazh/output/snake-dark.svg#gh-dark-mode-only" alt="GitHub Snake Dark" />
+</p>
+
 
 
 ## 🤝 Let’s Collaborate  
