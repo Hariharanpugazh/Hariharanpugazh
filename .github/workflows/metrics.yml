@@ -1,0 +1,24 @@
+name: Build Isometric Blocks
+on:
+  schedule: [{ cron: "0 6 * * *" }]    # daily @ 06:00 UTC
+  workflow_dispatch:
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate isometric contributions
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: Hariharanpugazh
+          template: classic
+          base: ""
+          config_timezone: Asia/Kolkata
+          filename: metrics/isometric.svg
+
+          # Isometric "blocks" plugin
+          plugin_isometric: yes
+          plugin_isometric_duration: full-year          # last 12 months
+          plugin_isometric_animated: yes                # animate build-up
+          plugin_isometric_mode: contribution           # show contributions
