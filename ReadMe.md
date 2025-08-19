@@ -31,7 +31,7 @@
   </tr>
 </table>
 
-## Skills
+## Skills & Tools
 
 <table align="center">
 
@@ -100,6 +100,82 @@
 <td align="center" width="100" style="padding:15px;"><img src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/vertexai-color.svg" width="48"><br>Vertex AI</td>
 </tr>
 
+</table>
+
+## Soft Skills
+
+<table align="center" style="width:100%; border-collapse:separate; border-spacing:12px; background:rgba(255,255,255,.02); border:1px solid rgba(255,255,255,.08); border-radius:12px;">
+  <!-- Row 1 -->
+  <tr>
+    <td align="center" style="padding:16px; border:1px solid rgba(255,255,255,.08); border-radius:10px;">
+      <img src="https://api.iconify.design/solar/chat-round-dots-bold.svg?color=%23E6EDF3" width="28" alt="communication"><br>
+      <b>Clear Communication</b>
+    </td>
+    <td align="center" style="padding:16px; border:1px solid rgba(255,255,255,.08); border-radius:10px;">
+      <img src="https://api.iconify.design/solar/users-group-rounded-bold.svg?color=%231f6feb" width="28" alt="team"><br>
+      <b>Team Collaboration</b>
+    </td>
+    <td align="center" style="padding:16px; border:1px solid rgba(255,255,255,.08); border-radius:10px;">
+      <img src="https://api.iconify.design/solar/user-check-rounded-bold.svg?color=%23E6EDF3" width="28" alt="leadership"><br>
+      <b>Leadership & Mentoring</b>
+    </td>
+    <td align="center" style="padding:16px; border:1px solid rgba(255,255,255,.08); border-radius:10px;">
+      <img src="https://api.iconify.design/solar/lightbulb-bolt-bold.svg?color=%231f6feb" width="28" alt="problem solving"><br>
+      <b>Problem-Solving</b>
+    </td>
+    <td align="center" style="padding:16px; border:1px solid rgba(255,255,255,.08); border-radius:10px;">
+      <img src="https://api.iconify.design/solar/target-bold.svg?color=%23E6EDF3" width="28" alt="ownership"><br>
+      <b>Ownership</b>
+    </td>
+  </tr>
+
+  <!-- Row 2 -->
+  <tr>
+    <td align="center" style="padding:16px; border:1px solid rgba(255,255,255,.08); border-radius:10px;">
+      <img src="https://api.iconify.design/mdi/source-pull.svg?color=%231f6feb" width="28" alt="code review"><br>
+      <b>Code Review & Quality</b>
+    </td>
+    <td align="center" style="padding:16px; border:1px solid rgba(255,255,255,.08); border-radius:10px;">
+      <img src="https://api.iconify.design/solar/book-bold.svg?color=%23E6EDF3" width="28" alt="docs"><br>
+      <b>Documentation</b>
+    </td>
+    <td align="center" style="padding:16px; border:1px solid rgba(255,255,255,.08); border-radius:10px;">
+      <img src="https://api.iconify.design/solar/compass-bold.svg?color=%231f6feb" width="28" alt="product"><br>
+      <b>Product Thinking</b>
+    </td>
+    <td align="center" style="padding:16px; border:1px solid rgba(255,255,255,.08); border-radius:10px;">
+      <img src="https://api.iconify.design/solar/heart-bold.svg?color=%23E6EDF3" width="28" alt="ux"><br>
+      <b>UX Empathy</b>
+    </td>
+    <td align="center" style="padding:16px; border:1px solid rgba(255,255,255,.08); border-radius:10px;">
+      <img src="https://api.iconify.design/solar/clock-circle-bold.svg?color=%231f6feb" width="28" alt="time"><br>
+      <b>Planning & Time Mgmt</b>
+    </td>
+  </tr>
+
+  <!-- Row 3 -->
+  <tr>
+    <td align="center" style="padding:16px; border:1px solid rgba(255,255,255,.08); border-radius:10px;">
+      <img src="https://api.iconify.design/mdi/lightbulb-on.svg?color=%23E6EDF3" width="28" alt="innovation"><br>
+      <b>Innovation & Creativity</b>
+    </td>
+    <td align="center" style="padding:16px; border:1px solid rgba(255,255,255,.08); border-radius:10px;">
+      <img src="https://api.iconify.design/solar/layers-bold.svg?color=%231f6feb" width="28" alt="waterfall"><br>
+      <b>Waterfall</b>
+    </td>
+    <td align="center" style="padding:16px; border:1px solid rgba(255,255,255,.08); border-radius:10px;">
+      <img src="https://api.iconify.design/mdi/wrench-cog.svg?color=%23E6EDF3" width="28" alt="cicd"><br>
+      <b>CI/CD Discipline</b>
+    </td>
+    <td align="center" style="padding:16px; border:1px solid rgba(255,255,255,.08); border-radius:10px;">
+      <img src="https://api.iconify.design/solar/check-circle-bold.svg?color=%231f6feb" width="28" alt="testing"><br>
+      <b>Testing Mindset</b>
+    </td>
+    <td align="center" style="padding:16px; border:1px solid rgba(255,255,255,.08); border-radius:10px;">
+      <img src="https://api.iconify.design/solar/shield-check-bold.svg?color=%23E6EDF3" width="28" alt="security"><br>
+      <b>Security & Privacy</b>
+    </td>
+  </tr>
 </table>
 
 
