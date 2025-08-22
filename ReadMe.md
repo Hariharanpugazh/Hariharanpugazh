@@ -14,7 +14,7 @@
   <!-- RIGHT: Bio -->
   <td style="width:70%; padding:20px; vertical-align:middle;">
     <h3>Hariharan</h3>
-    <p><em>AI Engineer • Full Stack Developer • Data Scientist</em></p>
+    <p><em>AI Engineer • Full Stack Developer • GenAI Devloper • Data Scientist</em></p>
 
   <p>
     Crafting impactful AI-driven solutions using <b>Django</b>, <b>React</b>, <b>MongoDB</b>, and <b>Streamlit</b>.<br/>
