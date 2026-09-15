@@ -1,6 +1,6 @@
 ## About Me
 
-<table align="center" style="width:100%; border-collapse:separate; border-spacing:12px; background:rgba(255,255,255,.03); border:1px solid rgba(255,255,255,.08); border-radius:12px;"> 
+<table align="center" style="width:100%; border-collapse:separate; border-spacing:12px; background:rgba(255,255,255,.03); border:1px solid rgba(255,255,255,.08); border-radius:12px;">
   <tr>
     <!-- LEFT: Photo -->
     <td align="center" style="width:30%; padding:20px; vertical-align:middle;">
