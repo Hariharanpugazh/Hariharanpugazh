@@ -6,7 +6,7 @@
     <td align="center" style="width:30%; padding:20px; vertical-align:middle;">
       <img
         src="https://raw.githubusercontent.com/Hariharanpugazh/Hariharanpugazh/main/Teaboy.jpg"
-        alt="Hariharan"
+        alt="Hariharan" 
         width="200"
         style="border-radius:50%; object-fit:cover; border:2px solid #ccc; box-shadow:0 0 8px rgba(0,0,0,0.15);" />
     </td>
