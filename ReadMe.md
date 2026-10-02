@@ -36,8 +36,8 @@
 <h3>Currently</h3>
 
 <ul>
-<li>AI Engineer Intern — NYUST, Taiwan</li>
-<li>Building <a href="https://github.com/Hariharanpugazh/CIRA"><b>CIRA</b></a></li>
+<li>AI Engineer @NYUST, Taiwan</li>
+<li>Actively on <a href="https://github.com/Hariharanpugazh/CIRA"><b>CIRA</b></a></li>
 <li>Exploring local LLMs, RAG, and agentic AI</li>
 </ul>
 
@@ -78,18 +78,15 @@
 
 <hr/>
 
+
 <h3>Featured Project</h3>
 
 <p>
-<a href="https://github.com/Hariharanpugazh/CIRA">
-<b>CIRA — GitHub Repository →</b>
-</a>
+<a href="https://github.com/Hariharanpugazh/CIRA"><b>CIRA →</b></a>
 </p>
 
-<p>
-My current project. Explore the repository for its implementation,
-features, and development progress.
-</p>
+<p>Building practical AI systems. Open to contributions and collaboration!</p>
+
 
 <hr/>
 
