@@ -50,7 +50,7 @@
 <li>മലയാളം — Learning / Practising</li>
 <li>हिन्दी — Learning</li>
 <li>中文（台灣華語）— Learning</li>
-<li>Deutsch — Learning</li>
+<li>Deutsch — Learning</li> 
 </ul>
 
 </td>
