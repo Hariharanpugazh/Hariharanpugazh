@@ -1,5 +1,5 @@
 <table width="100%">
-<tr>
+<tr> 
 
 <!-- LEFT: PROFILE, NAME, GIF, ABOUT & LANGUAGES -->
 
